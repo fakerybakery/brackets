@@ -2,6 +2,8 @@
 | :warning: On September 1, 2021, Adobe will end support for Brackets. If you would like to continue using, maintaining, and improving Brackets, you may fork the project on [GitHub](https://github.com/adobe/brackets). Through Adobe’s partnership with Microsoft, we encourage users to migrate to [Visual Studio Code](https://code.visualstudio.com/), Microsoft’s free code editor built on open source.
 | ---
 
+# Why I forked Brackets: BRACKETS IS END OF LIFE!!! BRACKETS IS MY FAVORITE CODE EDITOR!!! WHAT HAPPENED??? I NEED BRACKETS TO KEEP CODING!!!
+VS Code is not half as good as Brackets.
 
 Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
